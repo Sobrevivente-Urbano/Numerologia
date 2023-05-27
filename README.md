@@ -1,7 +1,7 @@
 # Numerologia
 Numerologia com Python
 
-´´´
+```
 
 4  3  3 3 32 54  6 3 3  4 3 3 54 3
 DIEGO CASAGRANDA VILELA DOS SANTOS
@@ -54,4 +54,5 @@ Tendências Ocultas: 1,3,4,5
 Dia Nascimento: 01
 Número Psíquico: 1
 Número de Destino: 9
-´´´
+
+```
